@@ -1,4 +1,4 @@
-# 🛍️ Bazila - Wix E-Commerce Website
+E-Commerce Website
 
 ## 🌐 Live Website
 
