@@ -8,7 +8,7 @@ E-Commerce Website
 
 ## 📖 About The Project
 
-Bazila is an e-commerce website created using the Wix platform. The website provides a simple and responsive online shopping experience where users can browse products and explore the store through an intuitive interface.
+Zarista is an e-commerce website created using the Wix platform. The website provides a simple and responsive online shopping experience where users can browse products and explore the store through an intuitive interface.
 
 The project demonstrates website design, navigation structure, responsive layouts, and online store management using Wix's drag-and-drop website builder.
 
